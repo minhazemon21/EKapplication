@@ -16,7 +16,8 @@ namespace EKapp.Controllers
             {
                 Name = "Shawshank Redumption!",
                 Id = 17,
-                AuthorName = "Tom"
+                AuthorName = "Tom",
+                Actress = "Jerry"
             };
             return View(movie);
             //return Content("Hi MSK");
