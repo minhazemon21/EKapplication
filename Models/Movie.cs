@@ -11,5 +11,6 @@ namespace EKapp.Models
         public string Name { get; set; }
         public string AuthorName { get; set; }
         public string Actress { get; set; }
+        public int Budget { get; set; }
     }
 }

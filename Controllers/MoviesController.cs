@@ -17,7 +17,8 @@ namespace EKapp.Controllers
                 Name = "Shawshank Redumption!",
                 Id = 17,
                 AuthorName = "Tom",
-                Actress = "Jerry"
+                Actress = "Jerry",
+                Budget = 10541545,
             };
             return View(movie);
             //return Content("Hi MSK");
