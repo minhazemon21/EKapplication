@@ -19,6 +19,7 @@ namespace EKapp.Controllers
                 AuthorName = "Tom",
                 Actress = "Jerry",
                 Budget = 10541545,
+                Earning = 500000000,
             };
             return View(movie);
             //return Content("Hi MSK");
